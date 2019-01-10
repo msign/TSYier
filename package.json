@@ -1,0 +1,11 @@
+{
+  "name": "TSYier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:msign/TSYier.git",
+  "author": "budblack <budblack@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jquery": "^3.3.29"
+  }
+}
